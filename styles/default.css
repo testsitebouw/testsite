@@ -1,0 +1,300 @@
+
+.background {  background-color: #FFFFFF}
+.tablebackground {  background-color: #4169E1}
+.logocolor {  background-color: #506D8B}
+.pagetitle {  font-size: x-large; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-weight: bold; text-decoration: underline; color: #506D8B}
+.drilldownheading {  background-color: #88DD88; font-size: 14px; font-weight: bold; font-family: Arial, Helvetica, sans-serif}
+.drilldownmenu {  background-color: #004400}
+.gridrowhighlight {  background-color: #80FF80}
+
+.disabled {  color: #999999}
+
+h1 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #0000CD;
+  text-decoration: none;}
+
+h2 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #0000CD;
+  text-decoration: none;}
+
+.text {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  color: #333333;
+  text-decoration: none;}
+.boldtext {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #0000CD;
+  text-decoration: none;}
+.boldtext2 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #FF00FF;
+  text-decoration: none;}
+.smalltext {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  color: #333333;
+  text-decoration: none;}
+
+.title01 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #0000CD;
+  text-decoration: none;}
+.title02 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #0000CD;
+  text-decoration: none;}
+
+.mainmenu {
+  background-color: #000000 }
+.mainmenuitem {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #FFFFFF;
+  text-decoration: none;}
+.mainmenuitem:hover {
+  color: #FF0000;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #000000; }
+  
+.mainmenuhighlight {
+  background-color: #506D8B; }
+
+.menu {
+  background-color: #D06119;}
+.menuheader {
+  background-color: #888888;}
+.menuitem {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  color: #333333;
+  text-decoration: none;}
+.menuhighlight {
+  background-color: #506D8B;}
+
+.link {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #0000CD;
+  text-decoration: none;}
+.link:hover {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #FF0000;
+  text-decoration: underline;
+  background-color: #FFFFFF;}
+
+.link2 {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #0000CD;
+  text-decoration: none;}
+.link2:hover {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #FF0000;
+  text-decoration: underline;
+  background-color: #FFFFFF;}
+
+.menulink {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #0000CD;
+  text-decoration: none;}
+.menulink:hover {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #FF0000;
+  text-decoration: none;}
+
+.maillink {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #0000CD;
+  text-decoration: none;}
+.maillink:hover {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal ;
+  color: #FF0000;
+  text-decoration: underline;
+  background-color: #FFFFFF;}
+
+.whitelink {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #FFFFFF;
+  text-decoration: none;}
+.whitelink:hover {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  color: #FF0000;
+  text-decoration: none;}
+
+.bluetable {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  background-color: #4477AA;
+  border-color: #000000;
+  color: #222222;
+  text-decoration: none;}
+.bluetable_header {
+  font-family: Arial, Helvetica, MS Sans Serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  background-color: #6699CC;
+  color: #FFFFFF;
+  text-decoration: none;}
+
+#layer_center_left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 50px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+#layer_center_right {
+  position: absolute;
+  top: 0px;
+  left: 700px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 50px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+#layer_center_main {
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 700px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+
+#layer_center_left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 150px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+
+#layer_spirit_main {
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  background: #FFFFFF ../graph/spiritbg.png;
+  border-width:0; border-color:#FFFFFF; width:650px; _height:100%; padding:0%; z-index:5; background-color:spiritbg.png}
+  
+#layer_welcome_left {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 170px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+
+#layer_welcome_main {
+  position: absolute;
+  top: 0px;
+  left: 171px;
+  background-color: #FFFFFF;
+  border-width: 0;
+  border-color: #FFFFFF;
+  width: 650px;
+  _height: 100%;
+  padding: 0%;
+  z-index: 5;}
+  
+
+.body_spiritmenu{background-color: #4169E1}
